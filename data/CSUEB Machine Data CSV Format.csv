@@ -1,0 +1,220 @@
+Machine,Category,Status,Started,Closed,Mins
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,1/6/2021,1/6/2021,45
+Sputter Machine,Other,DOWN FOR REPAIR,1/6/2021,1/6/2021,30
+Sputter Machine,Pallet not sensed,RUNNING BUT HAVING PROBLEMS,1/7/2021,1/7/2021,30
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,1/8/2021,1/8/2021,10
+Sputter Machine,Pallet not sensed,ENGINEER TESTING,1/8/2021,1/11/2021,480
+Sputter Machine,Pallet not sensed,ENGINEER TESTING,1/11/2021,1/14/2021,480
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,1/19/2021,1/19/2021,0
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,1/26/2021,1/26/2021,20
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,2/3/2021,2/3/2021,15
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,2/5/2021,2/5/2021,10
+Sputter Machine,Target 3 low,RUNNING BUT HAVING PROBLEMS,2/4/2021,2/5/2021,120
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,2/8/2021,2/8/2021,20
+Sputter Machine,Other,DOWN FOR REPAIR,2/9/2021,2/9/2021,20
+Sputter Machine,Other,DOWN FOR REPAIR,2/9/2021,2/9/2021,5
+Sputter Machine,Other,ENGINEER TESTING,2/10/2021,2/11/2021,60
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,2/11/2021,2/11/2021,20
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,2/12/2021,2/12/2021,120
+Sputter Machine,Computer error,RUNNING BUT HAVING PROBLEMS,2/16/2021,2/16/2021,10
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,2/19/2021,2/19/2021,15
+Sputter Machine,Water flow low,DOWN FOR REPAIR,3/1/2021,3/1/2021,10
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,3/5/2021,3/8/2021,180
+Sputter Machine,Other,DOWN FOR REPAIR,3/8/2021,3/8/2021,10
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,3/9/2021,3/9/2021,0
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,3/10/2021,3/10/2021,10
+Sputter Machine,Target low,DOWN FOR REPAIR,3/12/2021,3/12/2021,180
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,3/17/2021,3/17/2021,15
+Sputter Machine,Target 2 low,DOWN FOR REPAIR,3/18/2021,3/19/2021,300
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,3/19/2021,3/19/2021,20
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,3/26/2021,3/26/2021,20
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,3/30/2021,3/30/2021,10
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,4/5/2021,4/5/2021,15
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,4/9/2021,4/9/2021,90
+Sputter Machine,Other,DOWN FOR REPAIR,4/14/2021,4/14/2021,90
+Sputter Machine,Other,DOWN FOR REPAIR,4/12/2021,4/14/2021,480
+Sputter Machine,Gas level low,DOWN FOR REPAIR,4/16/2021,4/16/2021,15
+Sputter Machine,Other,DOWN FOR REPAIR,4/19/2021,4/19/2021,10
+Sputter Machine,Water flow low,DOWN FOR REPAIR,4/22/2021,4/22/2021,90
+Sputter Machine,Target 3 low,ENGINEER TESTING,4/22/2021,4/23/2021,120
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,4/26/2021,4/26/2021,20
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,5/3/2021,5/3/2021,5
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,5/10/2021,5/13/2021,600
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,5/13/2021,5/13/2021,1
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,5/14/2021,5/14/2021,20
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,5/24/2021,5/24/2021,15
+Sputter Machine,Pallet not sensed,ENGINEER TESTING,5/25/2021,5/26/2021,105
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,5/26/2021,5/26/2021,30
+Sputter Machine,Water flow low,DOWN FOR REPAIR,6/1/2021,6/1/2021,15
+Sputter Machine,Other,DOWN FOR REPAIR,6/1/2021,6/3/2021,120
+Sputter Machine,Target 3 low,RUNNING BUT HAVING PROBLEMS,5/26/2021,6/3/2021,90
+Sputter Machine,Other,DOWN FOR REPAIR,6/7/2021,6/7/2021,15
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,6/11/2021,6/11/2021,90
+Sputter Machine,Computer error,DOWN FOR REPAIR,6/15/2021,6/15/2021,70.2
+Sputter Machine,Computer error,DOWN FOR REPAIR,6/15/2021,6/15/2021,10
+Sputter Machine,Water flow low,RUNNING BUT HAVING PROBLEMS,6/21/2021,6/21/2021,10
+Sputter Machine,Plasma etch not in-spec,DOWN FOR REPAIR,6/25/2021,6/25/2021,10
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,6/25/2021,6/25/2021,180
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,6/30/2021,7/1/2021,79.8
+Sputter Machine,Other,ENGINEER TESTING,7/19/2021,7/20/2021,90
+Sputter Machine,Plasma etch not in-spec,DOWN FOR REPAIR,7/20/2021,7/20/2021,15
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,7/23/2021,7/24/2021,360
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,8/4/2021,8/4/2021,60
+Sputter Machine,Target 1 low,DOWN FOR REPAIR,8/4/2021,8/10/2021,180
+Sputter Machine,Heat lamps not turning on,DOWN FOR REPAIR,8/10/2021,8/10/2021,420
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,8/18/2021,8/18/2021,30
+Sputter Machine,Other,ENGINEER TESTING,9/2/2021,9/2/2021,240
+Sputter Machine,Other,ENGINEER TESTING,9/2/2021,9/3/2021,5
+Sputter Machine,Computer error,DOWN FOR REPAIR,9/29/2021,9/29/2021,30
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,10/4/2021,10/4/2021,15
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,10/4/2021,10/4/2021,270
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,10/6/2021,10/7/2021,120
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,10/21/2021,10/21/2021,20
+Sputter Machine,Target 1 low,RUNNING BUT HAVING PROBLEMS,10/25/2021,10/28/2021,90
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,11/10/2021,11/10/2021,30
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,11/23/2021,11/23/2021,5
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,11/27/2021,11/27/2021,15
+Sputter Machine,Computer error,DOWN FOR REPAIR,12/1/2021,12/1/2021,5
+Sputter Machine,Target 3 low,RUNNING BUT HAVING PROBLEMS,12/2/2021,12/6/2021,150
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,12/3/2021,12/6/2021,10
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,12/1/2021,12/10/2021,15
+Sputter Machine,Heat lamps not turning on,RUNNING BUT HAVING PROBLEMS,11/23/2021,12/10/2021,120
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,12/14/2021,12/14/2021,20
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,12/21/2021,12/21/2021,30
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,12/22/2021,12/22/2021,5
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,1/7/2022,1/7/2022,180
+Sputter Machine,Computer error,DOWN FOR REPAIR,1/10/2022,1/10/2022,30
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,1/10/2022,1/11/2022,360
+Sputter Machine,Target 1 low,RUNNING BUT HAVING PROBLEMS,1/21/2022,1/27/2022,240
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,1/31/2022,2/1/2022,90
+Sputter Machine,Target 3 low,RUNNING BUT HAVING PROBLEMS,1/28/2022,2/3/2022,90
+Sputter Machine,Target 2 low,DOWN FOR REPAIR,2/16/2022,2/17/2022,60
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,3/1/2022,3/1/2022,10
+Sputter Machine,Other,DOWN FOR REPAIR,3/8/2022,3/8/2022,15
+Sputter Machine,Other,ENGINEER TESTING,3/9/2022,3/10/2022,240
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,3/16/2022,3/16/2022,20
+Sputter Machine,Target 3 low,DOWN FOR REPAIR,3/14/2022,3/21/2022,120
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,3/22/2022,3/22/2022,20
+Sputter Machine,Target 2 low,DOWN FOR REPAIR,3/23/2022,3/24/2022,240
+Sputter Machine,Target 2 low,RUNNING BUT HAVING PROBLEMS,3/14/2022,3/24/2022,1
+Sputter Machine,Target 1 low,ENGINEER TESTING,3/17/2022,3/25/2022,90
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,3/25/2022,3/28/2022,30
+Sputter Machine,Pallet sense ,DOWN FOR REPAIR,4/6/2022,4/6/2022,5
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,4/9/2022,4/12/2022,180
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,4/13/2022,4/13/2022,10
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,4/19/2022,4/20/2022,0
+Sputter Machine,Plasma etch not in-spec,DOWN FOR REPAIR,4/25/2022,4/25/2022,30
+Sputter Machine,Pallet not sensed,ENGINEER TESTING,4/19/2022,4/25/2022,468
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,4/26/2022,4/27/2022,120
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,4/29/2022,5/2/2022,240
+Sputter Machine,Plasma etch not in-spec,DOWN FOR REPAIR,5/9/2022,5/9/2022,15
+Sputter Machine,Plasma etch not in-spec,DOWN FOR REPAIR,5/11/2022,5/11/2022,2
+Sputter Machine,Plasma etch not in-spec,RUNNING BUT HAVING PROBLEMS,5/11/2022,5/11/2022,25
+Sputter Machine,Water flow low,DOWN FOR REPAIR,5/13/2022,5/15/2022,60
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,5/25/2022,5/25/2022,20
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,5/31/2022,5/31/2022,35
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,6/2/2022,6/6/2022,90
+Sputter Machine,Plasma etch not in-spec,RUNNING BUT HAVING PROBLEMS,6/10/2022,6/10/2022,5
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/13/2022,6/13/2022,25
+Sputter Machine,Water flow low,RUNNING BUT HAVING PROBLEMS,6/15/2022,6/15/2022,20
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/20/2022,6/20/2022,10
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,6/24/2022,6/24/2022,10
+Sputter Machine,Water flow low,DOWN FOR REPAIR,6/27/2022,6/27/2022,5
+Sputter Machine,Computer error,RUNNING BUT HAVING PROBLEMS,6/22/2022,6/28/2022,60
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,6/24/2022,6/28/2022,270
+Sputter Machine,Other,DOWN FOR REPAIR,6/29/2022,6/30/2022,60
+Sputter Machine,Other,ENGINEER TESTING,6/30/2022,7/1/2022,120
+Sputter Machine,Computer error,RUNNING BUT HAVING PROBLEMS,7/1/2022,7/1/2022,10
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,7/11/2022,7/11/2022,30
+Sputter Machine,Pallet travel error,ENGINEER TESTING,7/20/2022,7/22/2022,300
+Sputter Machine,Computer error,RUNNING BUT HAVING PROBLEMS,7/25/2022,7/29/2022,10
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,8/17/2022,8/17/2022,10
+Sputter Machine,Target 2 low,PREVENTATIVE MAINTENANCE,8/11/2022,8/19/2022,240
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,7/22/2022,8/22/2022,120
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,8/22/2022,8/22/2022,15
+Sputter Machine,Other,DOWN FOR REPAIR,8/24/2022,8/24/2022,60
+Sputter Machine,Water flow low,DOWN FOR REPAIR,8/25/2022,8/25/2022,15
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,9/1/2022,9/2/2022,90
+Sputter Machine,Computer error,ENGINEER TESTING,9/13/2022,9/14/2022,60
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,9/19/2022,9/19/2022,35
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,10/3/2022,10/3/2022,20
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,10/14/2022,10/17/2022,240
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,10/13/2022,10/17/2022,240
+Sputter Machine,Gas level low,DOWN FOR REPAIR,10/24/2022,10/25/2022,10
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,11/7/2022,11/7/2022,30
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,11/9/2022,11/14/2022,150
+Sputter Machine,Heat lamps not turning on,RUNNING BUT HAVING PROBLEMS,11/15/2022,11/15/2022,4.2
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,11/18/2022,11/18/2022,15
+Sputter Machine,Gas level low,PREVENTATIVE MAINTENANCE,11/23/2022,11/23/2022,10
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,11/23/2022,11/23/2022,20
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,11/30/2022,12/5/2022,1020
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,12/5/2022,12/8/2022,1920
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,12/14/2022,12/19/2022,2
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,12/13/2022,12/19/2022,60
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,12/23/2022,12/23/2022,15
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,12/9/2022,1/6/2023,180
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,1/10/2023,1/10/2023,20
+Sputter Machine,Other,PREVENTATIVE MAINTENANCE,1/31/2023,1/31/2023,15
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,1/31/2023,1/31/2023,20
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,2/8/2023,2/9/2023,60
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,1/27/2023,2/10/2023,60
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,2/13/2023,2/13/2023,30
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,2/24/2023,2/24/2023,20
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,2/21/2023,3/1/2023,480
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,3/13/2023,3/13/2023,10
+Sputter Machine,Target 1 low,PREVENTATIVE MAINTENANCE,3/17/2023,3/20/2023,180
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,3/22/2023,3/22/2023,20
+Sputter Machine,Target 2 low,PREVENTATIVE MAINTENANCE,3/24/2023,3/27/2023,240
+Sputter Machine,Heat lamps not turning on,RUNNING BUT HAVING PROBLEMS,3/28/2023,3/28/2023,10
+Sputter Machine,Other,DOWN FOR REPAIR,4/10/2023,4/11/2023,1
+Sputter Machine,Other,DOWN FOR REPAIR,4/10/2023,4/11/2023,120
+Sputter Machine,Other,DOWN FOR REPAIR,4/11/2023,4/13/2023,50
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,4/13/2023,4/14/2023,30
+Sputter Machine,Other,DOWN FOR REPAIR,4/13/2023,4/14/2023,180
+Sputter Machine,Other,DOWN FOR REPAIR,4/18/2023,4/18/2023,1
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,4/21/2023,4/24/2023,60
+Sputter Machine,Other,RUNNING BUT HAVING PROBLEMS,5/4/2023,5/4/2023,5
+Sputter Machine,Other,DOWN FOR REPAIR,5/10/2023,5/10/2023,480
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,5/11/2023,5/16/2023,480
+Sputter Machine,Pallet travel error,RUNNING BUT HAVING PROBLEMS,5/17/2023,5/17/2023,30
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,5/18/2023,5/18/2023,30
+Sputter Machine,Pallet not sensed,RUNNING BUT HAVING PROBLEMS,5/23/2023,5/25/2023,5
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,5/19/2023,5/25/2023,90
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,5/25/2023,5/26/2023,10
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,5/30/2023,5/31/2023,10
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/1/2023,6/1/2023,1
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,6/1/2023,6/1/2023,10
+Sputter Machine,Water flow low,DOWN FOR REPAIR,6/5/2023,6/12/2023,5
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/12/2023,6/12/2023,5
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,6/5/2023,6/15/2023,45
+Sputter Machine,Chamber vacuum not in-spec,ENGINEER TESTING,6/15/2023,6/19/2023,60
+Sputter Machine,Chamber vacuum not in-spec,ENGINEER TESTING,6/19/2023,6/20/2023,50
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,6/23/2023,6/23/2023,60
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,6/23/2023,6/26/2023,60
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/27/2023,6/27/2023,0
+Sputter Machine,Other,DOWN FOR REPAIR,6/28/2023,6/29/2023,5
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,6/26/2023,7/7/2023,70
+Sputter Machine,Load lock vacuum not in-spec,DOWN FOR REPAIR,7/6/2023,7/7/2023,10
+Sputter Machine,Target 1 low,PREVENTATIVE MAINTENANCE,7/13/2023,7/14/2023,70.2
+Sputter Machine,Other,DOWN FOR REPAIR,7/17/2023,7/17/2023,15
+Sputter Machine,Other,DOWN FOR REPAIR,7/17/2023,7/18/2023,30
+Sputter Machine,Gas level low,PREVENTATIVE MAINTENANCE,8/1/2023,8/1/2023,20
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,8/11/2023,8/14/2023,240
+Sputter Machine,Pallet travel error,RUNNING BUT HAVING PROBLEMS,8/22/2023,8/22/2023,30
+Sputter Machine,Pallet not sensed,DOWN FOR REPAIR,8/22/2023,8/23/2023,60
+Sputter Machine,Pallet travel error,DOWN FOR REPAIR,9/5/2023,9/5/2023,15
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,9/8/2023,9/15/2023,100.2
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,10/20/2023,10/23/2023,240
+Sputter Machine,Computer error,RUNNING BUT HAVING PROBLEMS,9/18/2023,10/24/2023,1440
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,10/26/2023,10/26/2023,15
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,10/30/2023,11/2/2023,30
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,11/6/2023,11/6/2023,60
+Sputter Machine,Other,DOWN FOR REPAIR,11/7/2023,11/7/2023,5
+Sputter Machine,Target 1 low,PREVENTATIVE MAINTENANCE,11/6/2023,11/9/2023,240
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,11/11/2023,11/13/2023,25
+Sputter Machine,Load lock vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,11/16/2023,11/22/2023,60
+Sputter Machine,Gas level low,RUNNING BUT HAVING PROBLEMS,11/29/2023,11/29/2023,20
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,12/7/2023,12/8/2023,1
+Sputter Machine,Target 3 low,PREVENTATIVE MAINTENANCE,12/7/2023,12/8/2023,120
+Sputter Machine,Chamber vacuum not in-spec,DOWN FOR REPAIR,12/20/2023,12/20/2023,15
+Sputter Machine,Chamber vacuum not in-spec,RUNNING BUT HAVING PROBLEMS,12/20/2023,1/4/2024,360

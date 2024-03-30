@@ -13,7 +13,7 @@ from langchain.vectorstores import Chroma
 
 import constants
 
-os.environ["OPENAI_API_KEY"] = constants.APIKEY
+os.environ["OPENAI_API_KEY"] = ''
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
@@ -45,8 +45,9 @@ while True:
     query = input("Prompt: ")
   if query in ['quit', 'q', 'exit']:
     sys.exit()
-  result = chain({"question": query, "chat_history": chat_history})
-  print(result['answer'])
+  # result = chain({"question": query, "chat_history": chat_history})
+  # print(result['answer'])
+  print(index.query(query, llm=ChatOpenAI()))
 
-  chat_history.append((query, result['answer']))
+  # chat_history.append((query, result['answer']))
   query = None
